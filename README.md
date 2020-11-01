@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Tharseken Navajeevayokan. And I'm a guy that likes to code.
+
 <!--
 **tharseken/tharseken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
