@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Tharseken Navajeevayokan. And I'm a guy that likes to code.
+How can you move forward when you keep regretting the past?
 
 <!--
 **tharseken/tharseken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
